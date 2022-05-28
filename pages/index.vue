@@ -47,7 +47,7 @@ body{
 
 h1{
   font-size: 19px !important;
-  margin-bottom: 16px;
+  margin-bottom: 16px !important;
   color: #ff00aa;
   font-weight: bold !important;
 }
