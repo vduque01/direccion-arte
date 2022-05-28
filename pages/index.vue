@@ -50,6 +50,7 @@ h1{
   margin-bottom: 16px !important;
   color: #ff00aa;
   font-weight: bold !important;
+  text-align: center !important;
 }
 img{
   width: 400px;
@@ -61,11 +62,12 @@ input{
   padding: 16px 32px !important;
   outline: white 1px solid;
   border-radius: 999px;
+  width: 100% !important
 }
 
 form{
-  display:flex;
-  gap: 16px;
+  display: flex;
+  gap: 16px
 }
 
 button{
