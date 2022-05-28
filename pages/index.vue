@@ -46,10 +46,10 @@ body{
 
 
 h1{
-  font-size: 19px;
+  font-size: 19px !important;
   margin-bottom: 16px;
   color: #ff00aa;
-  font-weight: bold;
+  font-weight: bold !important;
 }
 img{
   width: 400px;
