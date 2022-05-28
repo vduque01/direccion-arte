@@ -58,7 +58,7 @@ img{
 
 input{
   background-color: black;
-  padding: 16px 32px;
+  padding: 16px 32px !important;
   outline: white 1px solid;
   border-radius: 999px;
 }
@@ -69,11 +69,11 @@ form{
 }
 
 button{
-  background-color: #ff00aa;
+  background-color: #ff00aa !important;
   display: flex;
   align-items: center;
   font-weight: bold;
-  padding: 16px 32px;
+  padding: 16px 32px !important;
   border-radius: 999px;
   transition: all 0.2s;
 }
